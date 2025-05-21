@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d3mps
-i have no idea how github works
+i now know how Git works
 
 <!---
 d3mps/d3mps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
